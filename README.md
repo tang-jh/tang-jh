@@ -2,7 +2,7 @@
 
 ---
 
-My name is Junhao and I am an aspiring software developer. Inspired by the idea of `Tech for Good`, I hope to build awesome applications that benefits people.
+My name is Junhao and I am an aspiring software developer. Inspired by the idea of **Tech for Good**, I hope to build awesome applications that benefits people.
 
 ---
 
